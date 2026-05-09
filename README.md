@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá, eu sou Pedro!
 
-<!--
-**Pedro6811Silva/Pedro6811Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Estatísticas do GitHub
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro6811Silva&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro6811Silva&layout=compact&theme=radical)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Linguagens que domino
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+---
+
+## 📄 Currículo Profissional
+- 💼 **Desenvolvedor Web** – Criação de sites responsivos e sistemas em HTML, CSS e JavaScript.  
+- 🐍 **Projetos em Python** – Scripts de automação, análise de dados e aplicações com Flask/Django.  
+- ⚙️ **C++** – Desenvolvimento de aplicações de alto desempenho e algoritmos avançados.  
+- ☕ **Java** – Experiência em aplicações desktop e sistemas corporativos.  
+- 🌐 **Projetos Open Source** – Contribuições em repositórios públicos e projetos colaborativos.  
+
+---
+
+## 🌟 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://seusite.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+
+---
+
+## 👀 Contador de Visitantes
+![Visitor Count](https://komarev.com/ghpvc/?username=Pedro6811Silva&color=blue&style=for-the-badge)
+
+
