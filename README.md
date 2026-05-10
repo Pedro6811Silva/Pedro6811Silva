@@ -17,7 +17,7 @@
 ---
 
 ## 📄 Currículo Profissional
-- 💼 **Desenvolvedor Web** – Criação de sites responsivos e sistemas em HTML, CSS e JavaScript.  
+- 💼 **Desenvolvedor Web** – Criação de sites responsivos e sistemas em HTML, CSS, C++, Python e JavaScript.  
 - 🐍 **Projetos em Python** – Scripts de automação, análise de dados e aplicações com Flask/Django.  
 - ⚙️ **C++** – Desenvolvimento de aplicações de alto desempenho e algoritmos avançados.  
 - ☕ **Java** – Experiência em aplicações desktop e sistemas corporativos.  
