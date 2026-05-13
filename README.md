@@ -1,4 +1,7 @@
 # 👋 Olá, eu sou Pedro!
+# CodeMotion
+
+DEV PROGRAMADOR DE SOFTWARE E WEB
 
 ## 🚀 Estatísticas do GitHub
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro6811Silva&show_icons=true&theme=radical)
