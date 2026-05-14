@@ -19,6 +19,9 @@ DEV PROGRAMADOR DE SOFTWARE E WEB
 
 ---
 
+![erro](ImagemPortifolio/pexels-photo-546819.jpeg)
+
+---
 ## 📄 Currículo Profissional
 - 💼 **Desenvolvedor Web** – Criação de sites responsivos e sistemas em HTML, CSS, C++, Python e JavaScript.  
 - 🐍 **Projetos em Python** – Scripts de automação, análise de dados e aplicações com Flask/Django.  
