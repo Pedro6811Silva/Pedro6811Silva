@@ -1,8 +1,9 @@
 # 👋 Aqui é a CodeMotion!
 
-DEV Programador de Software E Web
+Dev Programador de Software e Web
 
 ## 🚀 Estatísticas do GitHub
+
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro6811Silva&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro6811Silva&layout=compact&theme=radical)
@@ -33,11 +34,13 @@ DEV Programador de Software E Web
 
 ## 🌟 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://seusite.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![Portfólio]([https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://seusite.com](https://pedro6811silva.github.io/Portifolio-Servicos/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](codemotionbr@outlook.com)
 
 ---
 
+#link
+https://pedro6811silva.github.io/Portifolio-Servicos/
 ## 👀 Contador de Visitantes
 ![Visitor Count](https://komarev.com/ghpvc/?username=Pedro6811Silva&color=blue&style=for-the-badge)
 
