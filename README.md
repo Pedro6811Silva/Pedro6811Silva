@@ -33,15 +33,12 @@ Dev Programador de Software e Web
 ---
 
 ## 🌟 Conecte-se comigo
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)  
-[![Portfólio]([https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://seusite.com](https://pedro6811silva.github.io/Portifolio-Servicos/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](codemotionbr@outlook.com)
 
----
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://pedro6811silva.github.io/Portifolio-Servicos/)  
 
-#link
-https://pedro6811silva.github.io/Portifolio-Servicos/
-## 👀 Contador de Visitantes
-![Visitor Count](https://komarev.com/ghpvc/?username=Pedro6811Silva&color=blue&style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codemotionbr@gmail.com)
+
 
 
