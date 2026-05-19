@@ -32,13 +32,15 @@ Dev Programador de Software e Web
 
 ---
 
-## 🌟 Conecte-se comigo
+## 🌟 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)  
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://pedro6811silva.github.io/Portifolio-Servicos/)  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codemotionbr@gmail.com)
+
+UPWORK_freelancer: https://www.upwork.com/freelancers/~017320f4cb80085d7e?mp_source=share
 
 
 
