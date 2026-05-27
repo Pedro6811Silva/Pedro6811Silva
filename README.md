@@ -1,4 +1,4 @@
-# 👋 Aqui é a CodeMotion!
+# 👋 Aqui é CodeMotion!
 
 Dev Programador de Software e Web
 
